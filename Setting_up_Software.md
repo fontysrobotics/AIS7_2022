@@ -70,7 +70,8 @@ Anaconda will install the conda package manager, but also the python environment
 
 You can use the [install manuals](https://docs.anaconda.com/anaconda/install/windows/) and [getting-started](https://docs.anaconda.com/anaconda/user-guide/getting-started/) guides from the anaconda website or follow this youtube tutorial:
 
-![IMAGE_ALT](https://img.youtube.com/vi/2WL-XTl2QYI/0.jpg)
+[![IMAGE_ALT](https://img.youtube.com/vi/2WL-XTl2QYI/0.jpg)](https://www.youtube.com/watch?v=2WL-XTl2QYI)
+
 https://www.youtube.com/watch?v=2WL-XTl2QYI
 
 
