@@ -5,7 +5,7 @@
 
 ![](./images/AIS.JPG)
 
-In this repository you can find all the needed material for developing the assignments related to the 4th year Autonomous & Intelligent Systems course of Fontys Mechatronics.
+In this repository you can find all the needed material for the assignments related to the 4th year Autonomous & Intelligent Systems course of Fontys Mechatronics.
 
 
 
@@ -21,7 +21,7 @@ Each assignment contains all the information that you might need for achieving y
 We will use Python as our main programming language and specific tools & libraries which are required for machine learning, deep learning and visualization.
 You also need to install JupyterLab to be able to run the given notebooks
 
-**install instructions will follow Here.**
+**Follow [these instructions](Setting_up_Software.md) to set-up the Software environment.**
 
 <!--
 ## Background Information: Hardware & Linux image
