@@ -18,8 +18,11 @@ Before you can start with the first assignment you should first setup your PC, i
 
 ## Preparation
 
-You have to ***make groups of 3 students*** to work on the assignments.
-You can ***assign yourself to a group in Canvas***. Groups can be made across classes, groups of 2 students (without consent of the teacher) will be reassigned!
+You have to <ins>**make groups of 3 students**</ins> to work on the assignments.
+
+- You can ***assign yourself to a group in Canvas***.
+- Groups can be made across classes,
+- groups of 2 students or less (without consent of the teacher) will be reassigned!
 
 
 ### Software Environment
@@ -97,7 +100,7 @@ In this part you will generate your own dataset and you will have to train your 
 
 At the end you have to hand in all the notebook of Assignment 1. When you hand it in you should make sure that you saved it with all output visible (after execution), so we can evaluate your notebooks output without directly running it. In addition (to be sure) you should also save a pdf of the final result.
 
-For assignment C we also want a short video which shows all the design steps (from collecting data till deployment), in this video you should **show and explain** what you did, which design choices you made and why!
+For assignment C we also want a short video which shows all the design steps (from collecting data till deployment), in this video you should <ins>show and explain</ins> what you did, which design choices you made and why!
 
 ***Final deliverables Assignment 1***:
 
@@ -105,7 +108,7 @@ For assignment C we also want a short video which shows all the design steps (fr
 * A pdf of all these notebooks in the same state (as backup).
 * The data(sets) that you generated for Part C, so we can run your code if needed.
 * A video (max 3 minutes) explaining & showing the process from dataset creation to final result of Part C.
-* The Assignment per group has to be ***uploaded to Canvas  before the given due date!***
+* The Assignment per group has to be <ins>**uploaded to Canvas  before the given due date!**</ins>
 
 | NOTE: Make sure you answer all questions that are given in all the notebooks and that you draw some conclusions/insights per execution step. Just showing the output is not sufficient. |
 |---|
