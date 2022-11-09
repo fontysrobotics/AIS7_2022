@@ -18,13 +18,19 @@ Before you can start with the first assignment you should first setup your PC, i
 
 ## Preparation
 
+You have to **make groups of 3 students** to work on the assignments.
+You can **assign yourself to a group in Canvas**. Groups can be made across classes, groups of 2 students (without consent of the teacher) will be reassigned!
 
-Make sure you setup the [Software environment](../Setting_up_Software.md).
+
+### Software Environment
+
+Make sure you have setup the [Software environment](../Setting_up_Software.md) needed for this assignment.
+
 
 <!--
 - Make sure you assembled the hardware and installed the required software and connect to your Jetson -->
 
-### Tutorials
+### Machine Learning Tutorials
 
 We provide some tutorials how to get started with Machine Learning / use specific packages / import datasets / analyze data  / display results / implement and compare ML algorithms.
 The knowledge learned from these tutorials will be required for making the Assignments.
@@ -99,6 +105,7 @@ For assignment C we also want a short video which shows all the design steps (fr
 * A pdf of all these notebooks in the same state (as backup).
 * The data(sets) that you generated for Part C, so we can run your code if needed.
 * A video (max 3 minutes) explaining & showing the process from dataset creation to final result of Part C.
+* The Assignment per group has to be **uploaded to Canvas  before the given due date!**
 
 | NOTE: Make sure you answer all questions that are given in all the notebooks and that you draw some conclusions/insights per execution step. Just showing the output is not sufficient. |
 |---|
