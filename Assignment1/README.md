@@ -1,6 +1,6 @@
 # Assignment 1
 
-This assignment will consist of Two parts (A and B)
+This assignment will consist of Three parts (A, B and C)
 
 * Part A will be about getting acquainted with all tools / hardware / environments and deploying your first learning algorithms on relative simple datasets
 
@@ -61,7 +61,6 @@ You can find a jupyter notebook here.
 The notebook contains the assignment description!
 
 > [Assignment1_partA.md](Assignment1_partA.md)
-> [Assignment1_PART_A.ipynb](Assignment1_PART_A.ipynb)
 
 * Add your group number, names and code in the given notebooks
 * Answer all questions that are located in the notebooks
