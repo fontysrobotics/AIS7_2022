@@ -3,8 +3,7 @@ This assignment will consist of Three parts (A, B and C)
 
 * Part A will be about getting acquainted with a fully connected Neural Networks (NN), you will learn how to create a simple NN model for learning on relative simple datasets
 
-* Part B will be available soon
-<!-- about Convolutional Neural Networks (CNN), you will create and train a simple CNN model for learning on relative simple datasets -->
+* Part B will be about Convolutional Neural Networks (CNN), you will create and train a simple CNN model for learning on relative simple datasets
 
 * Part C will be available soon
 
@@ -26,10 +25,9 @@ The description of Part A can be found here:
 
 ### Assignment 2 - Part B
 
-The description of Part B can be found here: **this will be available soon**
-<!--
+The description of Part B can be found here:
 [PartB_ConvolutionalNeuralNetworks.md](PartB_ConvolutionalNeuralNetworks.md)
--->
+
 
 * Add your group number, names and code in the given notebooks
 * Answer all questions that are located in the notebooks
