@@ -51,3 +51,20 @@ Start a new putty session and login to your jetson (do not start the docker from
 to start it type: $ jtop
 ![](Jtop.PNG)
 -->
+
+---
+## generating PDF's
+
+To generate pdf's from within jupyter notebook there are multiple options, the one without installing is selecting a print preview as shown below.
+
+(Alternative options are through the download-as menu option, but then you need to install additional packages).
+
+![](Images/PDF_generation_preview.JPG)
+
+A new tab in your browser will appear with a print preview.
+In the new browser tab select the print option from the browser menu, or press **CTRL-P.**
+
+The printing dialog window will appear.
+Select a PDF printer that is supported for your system (e.g., save as pdf, Microsoft print to PDF) and press save.
+
+![](Images/PDF_generation_print.JPG)
