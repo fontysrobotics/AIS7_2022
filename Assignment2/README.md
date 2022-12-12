@@ -5,7 +5,7 @@ This assignment will consist of Three parts (A, B and C)
 
 * Part B will be about Convolutional Neural Networks (CNN), you will create and train a simple CNN model for learning on relative simple datasets
 
-* Part C will be available soon
+* Part C will be about modify a pre-trained neural network, so that it can detect objects where the initial network is not trained for. This modification of an existing pre-trained network for other tasks is called transfer learning.
 
 <!-- about analyzing deploying/using and re-training advanced Deep Neural Networks (architectures) that are designed and pre-traind by domain experts
 -->
