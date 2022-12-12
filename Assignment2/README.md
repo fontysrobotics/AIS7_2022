@@ -35,10 +35,9 @@ The description of Part B can be found here:
 
 ### Assignment 2 -  Part C
 
-The description of Part C can be found here: **this will be available soon**
-<!--
+The description of Part C can be found here:
 [PartC_TransferLearning.md](PartC_TransferLearning.md)
--->
+
 
 * Add your group number, names and code in the given notebooks
 * Answer all questions that are located in the notebooks
